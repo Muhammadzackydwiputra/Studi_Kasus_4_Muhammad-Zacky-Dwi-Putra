@@ -15,7 +15,7 @@ while True untuk menjaga program tetap berjalan dan terus menampilkan daftar men
 
 Mnampilkan pilihan opsi ke layar dan mengambil input teks dari pengguna.
 
-<img width="629" height="144" alt="Screenshot 2026-09-15 200834" src="https://github.com/user-attachments/assets/4120f853-85b2-45f2-9db4-1ee8a16ff373" />
+<img width="491" height="108" alt="Screenshot 2026-09-15 205104" src="https://github.com/user-attachments/assets/4120b2c9-fbdc-4061-8373-92dd9d91529f" />
 
 if 1 untuk mengambil dan mencetak data dari dictionary ke layar.
 
@@ -36,7 +36,9 @@ elif 4 untuk memberikan perintah del buku["penerbit"] untuk menghapus kunci "pen
 elif 5 untuk memberikan perintah break untuk menghentikan perulangan while True agar program selesai.
 
 # Output
-<img width="545" height="658" alt="Screenshot 2026-09-15 195201" src="https://github.com/user-attachments/assets/31dddd0f-5f72-443e-81cc-3be3d1e3586d" />
+<img width="1141" height="635" alt="Screenshot 2026-09-15 205408" src="https://github.com/user-attachments/assets/077f9720-171f-417f-a26b-3dc17aee7515" />
 
-<img width="500" height="627" alt="Screenshot 2026-09-15 195224" src="https://github.com/user-attachments/assets/5bac4efb-965a-4336-959b-327ce2de9b35" />
+<img width="1091" height="607" alt="Screenshot 2026-09-15 205506" src="https://github.com/user-attachments/assets/53faef00-9ba1-434b-a738-843510579e25" />
+
+<img width="1149" height="427" alt="Screenshot 2026-09-15 205527" src="https://github.com/user-attachments/assets/2909d375-d8c0-46cc-90ea-4baa50c4bcdd" />
 
